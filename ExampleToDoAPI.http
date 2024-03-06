@@ -1,0 +1,6 @@
+@ExampleToDoAPI_HostAddress = http://localhost:5161
+
+GET {{ExampleToDoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
